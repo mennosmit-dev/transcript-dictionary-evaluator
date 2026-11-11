@@ -1,0 +1,8 @@
+﻿kandidaat (HappyScribe);Teams schreef;aantal;soort verschil;gelijkenis;eigennaam/afkorting;al op lijst;Teams-variant al in sounds like;voorbeeld;oordeel (goed/fout HS/geen term)
+SnelSync;snel sink (1x) | snelsync (1x);2;ander woord;1.0;ja;;;the NWL enterprise segment Kunnen we [SnelSync] gebruiken om de features dagelijks te;
+Fluxgrid;Flux Grid (1x);1;spatie/streepje;1.0;ja;ja;ja;eerste resultaten van het churnmodel in [Fluxgrid] The precision is 0.82 on the;
+NWL;N W L (1x);1;spatie/streepje;1.0;ja;;;data but recall drops for the [NWL] enterprise segment Kunnen we SnelSync gebruiken;
+KPI-radar;KPI radar (1x);1;spatie/streepje;1.0;ja;ja;ja;live Mooi Dan zet ik de [KPI-radar] op de agenda voor volgende week;
+DataVlinder;data flinder (1x);1;ander woord;0.91;ja;;;verversen Yes SnelSync supports that The [DataVlinder] connector is already live Mooi Dan;
+Orbitly;Orbit Lee (1x);1;ander woord;0.8;ja;;;The precision is 0.82 on the [Orbitly] data but recall drops for the;
+Ravi;Robbie (1x);1;ander woord;0.4;ja;;;agenda voor volgende week samen met [Ravi];

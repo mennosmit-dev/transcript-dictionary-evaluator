@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Echte data blijft lokaal: transcripten, register en lijsten in de hoofdmap.
+/*.md
+!/README.md
+/*.docx
+/*.csv
+/versie.txt
+/uitvoer/
+/archief/

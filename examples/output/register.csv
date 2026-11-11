@@ -1,0 +1,12 @@
+﻿term;status;lijstterm;sounds like voorstel;vertrouwelijk;Teams schreef;aantal meetings;aantal keer;gezien na verzending;soort verschil;eigennaam/afkorting;al op lijst;variant al bekend;meetings;eerst gezien;verstuurd op;voorbeeld;notitie
+KPI-radar;nieuw;KPI-radar;;;KPI radar (2x);2;2;0;spatie/streepje;ja;ja;ja;meeting2, meeting3;2026-11-11;;live Mooi Dan zet ik de [KPI-radar] op de agenda voor volgende week;
+NWL lakehouse;nieuw;NWL lakehouse;NWO lake house;;NWO lake house (1x);1;1;0;ander woord;ja;ja;;meeting3;2026-11-11;;Orbitly feed it lands in the [NWL lakehouse] every hour En de SnelSync job;
+Fluxgrid;twijfel;Fluxgrid;;;flux grid (2x) | Flux Grid (1x);2;3;0;spatie/streepje;ja;ja;ja;meeting1, meeting2;2026-11-11;;welkom bij de kick-off van het [Fluxgrid] dashboard voor Northwind Labs Dank je;
+churnmodel;twijfel;churnmodel;turn model;;turn model (2x);2;2;0;ander woord;;;;meeting1, meeting3;2026-11-11;;de data uit Orbitly aan het [churnmodel] dan kijken we naar de KPI's;
+SnelSync;verstuurd v2;SnelSync;snel sink;;snel sink (3x) | snelsync (1x);3;4;1;ander woord;ja;;;meeting1, meeting2, meeting3;2026-11-11;2026-11-11;refresh should be fine I'll check [SnelSync] tomorrow Top En DataVlinder hebben we;
+DataVlinder;verstuurd v2;DataVlinder;"data vlinder; data flinder";;data vlinder (2x) | data flinder (1x);3;3;1;spatie/streepje;ja;;;meeting1, meeting2, meeting3;2026-11-11;2026-11-11;I'll check SnelSync tomorrow Top En [DataVlinder] hebben we daar al toegang toe;
+Ravi;verstuurd v2;Ravi;Robbie;ja;Robbie (3x);3;3;1;ander woord;ja;;;meeting1, meeting2, meeting3;2026-11-11;2026-11-11;Nog niet ik vraag het aan [Ravi] Het Fluxgrid team wil eerst een;
+Orbitly;verstuurd v2;Orbitly;Orbit Lee;;Orbit Lee (2x);2;2;0;ander woord;ja;;;meeting1, meeting2;2026-11-11;2026-11-11;We koppelen eerst de data uit [Orbitly] aan het churnmodel dan kijken we;
+NWL;verstuurd v2;NWL;"NWO; N W L";;NWO (1x) | N W L (1x);2;2;0;ander woord;ja;;;meeting1, meeting2;2026-11-11;2026-11-11;naar de KPI's Sounds good The [NWL] pipeline runs every night so the;
+Labs;afgewezen;Labs;Lapse;;Lapse (1x);1;1;0;ander woord;ja;ja;;meeting1;2026-11-11;;van het Fluxgrid dashboard voor Northwind [Labs] Dank je Jan We koppelen eerst;
+then;afgewezen;then;so;;so (1x);1;1;0;ander woord;;;;meeting1;2026-11-11;;team wil eerst een demo Okay [then] let's plan the demo next week;

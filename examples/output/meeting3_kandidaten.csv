@@ -1,0 +1,7 @@
+﻿kandidaat (HappyScribe);Teams schreef;aantal;soort verschil;gelijkenis;eigennaam/afkorting;al op lijst;Teams-variant al in sounds like;voorbeeld;oordeel (goed/fout HS/geen term)
+KPI-radar;KPI radar (1x);1;spatie/streepje;1.0;ja;ja;ja;job draait daarna toch Correct The [KPI-radar] shows churn risk per segment from;
+DataVlinder;data vlinder (1x);1;spatie/streepje;1.0;ja;ja;ja;Super dan sturen we dit naar [DataVlinder] voor feedback;
+NWL lakehouse;NWO lake house (1x);1;ander woord;0.92;ja;ja;;Orbitly feed it lands in the [NWL lakehouse] every hour En de SnelSync job;
+SnelSync;snel sink (1x);1;ander woord;0.75;ja;ja;ja;NWL lakehouse every hour En de [SnelSync] job draait daarna toch Correct The;
+Ravi;Robbie (1x);1;ander woord;0.4;ja;ja;ja;Welkom bij de demo van Fluxgrid [Ravi] wil jij beginnen Sure This is;
+churnmodel;turn model (1x);1;ander woord;0.84;;;;churn risk per segment from the [churnmodel] Super dan sturen we dit naar;
